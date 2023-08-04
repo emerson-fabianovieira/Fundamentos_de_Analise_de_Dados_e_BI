@@ -1,4 +1,5 @@
-# Fundamentos de Análise de Dados e Business Intelligence (BI)
+# Fundamentos de Análise de Dados e Business Intelligence (BI) <img align="center" alt="emerson-fabianovieira-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
 
 Explore os alicerces da Análise de Dados e BI: aprenda a coletar, interpretar e visualizar insights impactantes. Um guia conciso para dominar dados e impulsionar decisões inteligentes
 
